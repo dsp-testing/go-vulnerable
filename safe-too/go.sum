@@ -1,2 +1,2 @@
-github.com/dsp-testing/go-vulnerable v0.0.0-20220517151931-89362995230d h1:Ji/JvXOUZXFx+edJFo+PnyYGu4knh1bUDC04itqb4ec=
-github.com/dsp-testing/go-vulnerable v0.0.0-20220517151931-89362995230d/go.mod h1:j9tkJSrjbH+CXfpuGOwqDES2iz/2gKMEWuWkhj2z2f4=
+github.com/dsp-testing/go-vulnerable/safe v0.0.0-20220517155342-4e1fb960a6a1 h1:d4CRzM2OBTyu0Fn/TCh8odAYBr5HbhgEqzhqxQhlSn0=
+github.com/dsp-testing/go-vulnerable/safe v0.0.0-20220517155342-4e1fb960a6a1/go.mod h1:LJQxxZulrh7CwjkYZi8TVGC48kuQm1OeUwdaI9sx4yk=
