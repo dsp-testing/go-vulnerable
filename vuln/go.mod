@@ -1,4 +1,4 @@
-module github.com/dsp-testing/go-vulnerable
+module github.com/dsp-testing/go-vulnerable/vuln
 
 go 1.18
 
