@@ -1,4 +1,4 @@
-package go_vulnerable
+package vuln
 
 import "github.com/ulikunitz/xz"
 
